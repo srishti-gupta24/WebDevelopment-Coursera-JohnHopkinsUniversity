@@ -10,3 +10,6 @@ https://srishti-gupta24.github.io/WebDevelopment-Coursera-JohnHopkinsUniversity/
 
 ### Module 4 Assignment Link:
 https://srishti-gupta24.github.io/WebDevelopment-Coursera-JohnHopkinsUniversity/module4-solution/index.html
+
+### Module 5 Assignment Link:
+https://srishti-gupta24.github.io/WebDevelopment-Coursera-JohnHopkinsUniversity/module5-solution/index.html
